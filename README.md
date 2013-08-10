@@ -24,5 +24,5 @@ id exp = [VRXVerbalExpression create:^(VRXVerbalExpression *r) {
     BOOL test = [exp test:@"https://www.google.com"];
 ```
 ## Developer setup : running the tests
-The tests use NSUnit, there is a Podfile included that will setup NSUnit for you. Just run `Pod install` in the VRXVerbalExpressions directory.
+The tests use [NSUnit](https://github.com/jacksonh/NSUnit), there is a Podfile included that will setup NSUnit for you. Just run `Pod install` in the VRXVerbalExpressions directory.
 
