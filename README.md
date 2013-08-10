@@ -1,7 +1,7 @@
 VRXVerbalExpressions
 ====================
 
-An Objective-C implementation of Verbal Expressions
+An Objective-C implementation of [VerbalExpressions](https://github.com/VerbalExpressions)
 
 ## Installation
 For now, just drop in the .h/.m files. In the near future I will add to CocoaPods
